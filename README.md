@@ -5,7 +5,7 @@ It is a console version of the popular game Tic-Tac-Toe. Tic-tac-toe is a game f
 * Ruby
 
 ## How to play the game
-The simplest way to see it in action is to check the [Repl.it](https://replit.com/@anabananaa/Tic-Tac-Toe#main.rb)) and press the green button at the top of the page.
+The simplest way to see it in action is to check the [Repl.it](https://replit.com/@anabananaa/Tic-Tac-Toe#main.rb) and press the green button at the top of the page.
 
 ## What I learned
 I practiced my Ruby coding skills.
