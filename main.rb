@@ -1,7 +1,3 @@
-# frozen_string_literal: true
-
-require 'pry-byebug'
-
 class Game
   def initialize
     restart_game
